@@ -1,0 +1,50 @@
+/* 
+	- Date:     8/1/2017
+	- Author:   R. Hardy   
+----------------------------
+   CSS DIRECTORY
+	1. =GENERAL
+	2. =HEADER
+	3. =NAV
+	4. =SECTION, ARTICLE, ASIDE
+	5. =FOOTER
+    6. =MEDIA QUERIES
+*/
+
+/* === GENERAL === */
+body{margin:0;padding:0}
+img { float: left; margin:10px 20px 20px 0;}
+.height-full{height:95%}
+
+/* === HEADER === */
+
+
+/* === NAV === */
+
+
+/* === SECTION, ARTICLE, ASIDE  === */
+
+
+/* === FOOTER === */
+
+/* === MEDIA QUERIES === */
+
+/* Extra small devices (phones, less than 480px) */
+@media only screen and (min-width : 480px) { 
+
+}
+
+/* Small devices (tablets, 768px and up) */
+@media only screen and (min-width : 768px) { 
+    header .container .logo{background:skyblue}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media only screen and (min-width : 992px) { 
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media only screen and (min-width : 1200px) { 
+
+}
